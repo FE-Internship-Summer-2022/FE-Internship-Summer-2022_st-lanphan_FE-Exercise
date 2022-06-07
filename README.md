@@ -4,6 +4,6 @@
 
 date of birth :06/03/2001
 
-company name: SupremeTech
+university name:
 
-team name: FrontEnd
+city : DaNang
