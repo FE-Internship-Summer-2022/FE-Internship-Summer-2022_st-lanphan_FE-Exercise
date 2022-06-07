@@ -4,6 +4,6 @@
 
 date of birth :06/03/2001
 
-university name: UED 
+university name:
 
 city : DaNang
