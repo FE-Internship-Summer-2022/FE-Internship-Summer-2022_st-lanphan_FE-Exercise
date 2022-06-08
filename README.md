@@ -3,6 +3,6 @@
 
 DOB :06/03/2001
 
-university name: UED 
+university name: SupremeTech
 
-city : DaNang
+city : FrontEnd
